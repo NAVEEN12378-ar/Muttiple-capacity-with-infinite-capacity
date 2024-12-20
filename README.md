@@ -27,9 +27,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program:
 '''
-Developed by : Naveenkumar M
+ Developed by : Naveenkumar M
 
-Ref no : 24900751
+  Ref no : 24900751
 '''
 ![Screenshot 2024-12-20 143552](https://github.com/user-attachments/assets/5cb2cb9f-8597-4480-b431-ccd888119a61)
 
